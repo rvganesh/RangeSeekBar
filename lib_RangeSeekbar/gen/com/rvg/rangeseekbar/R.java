@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.efor18.rangeseekbar;
+package com.rvg.rangeseekbar;
 
 public final class R {
     public static final class attr {
