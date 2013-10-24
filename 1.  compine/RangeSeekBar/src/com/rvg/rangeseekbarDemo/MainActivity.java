@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 import com.rvg.rangeseekbar.RangeSeekBar;
 import com.rvg.rangeseekbar.RangeSeekBar.OnRangeSeekBarChangeListener;
-
+//Testing github
 public class MainActivity extends Activity {
 
 	public static final String TAG = "rangeseekbar";
